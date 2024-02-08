@@ -11,7 +11,7 @@ body{
     align-items: center;
     height: 100vh;
     text-align: center;
-    background: url(Images/img-1.jpeg) no-repeat center center/ cover;
+    background: url("Images/img-1.jpeg") no-repeat center center/ cover;
 }
 
 .container{
